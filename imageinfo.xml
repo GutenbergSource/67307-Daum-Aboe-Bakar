@@ -1,0 +1,18 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/bottom1.png" filesize="1088" filedate="2022-02-03 15:34:13" width="110px" height="59px"/>
+<image path="images/bottom2.png" filesize="1527" filedate="2022-02-03 15:34:13" width="129px" height="81px"/>
+<image path="images/bottom3.png" filesize="2031" filedate="2022-02-03 15:34:13" width="132px" height="105px"/>
+<image path="images/bottom4.png" filesize="3140" filedate="2022-02-03 15:34:13" width="185px" height="105px"/>
+<image path="images/bottom5.png" filesize="2829" filedate="2022-02-03 15:34:13" width="184px" height="108px"/>
+<image path="images/bottom6.png" filesize="3938" filedate="2022-02-03 15:34:13" width="257px" height="127px"/>
+<image path="images/bottom7.png" filesize="4858" filedate="2022-02-03 15:34:13" width="261px" height="130px"/>
+<image path="images/bottom8.png" filesize="5361" filedate="2022-02-03 15:34:13" width="260px" height="135px"/>
+<image path="images/new-cover.jpg" filesize="164769" filedate="2022-02-03 15:34:13" width="960px" height="1440px"/>
+<image path="images/qr67307.png" filesize="341" filedate="2022-02-03 21:07:05" width="296px" height="296px"/>
+<image path="images/titlepage.png" filesize="15891" filedate="2022-02-03 15:34:13" width="862px" height="1440px"/>
+<image path="images/top1.png" filesize="29965" filedate="2022-02-03 15:34:13" width="1087px" height="164px"/>
+<image path="images/top2.png" filesize="51334" filedate="2022-02-03 15:34:13" width="1081px" height="190px"/>
+<image path="images/top3.png" filesize="30228" filedate="2022-02-03 15:34:13" width="1093px" height="164px"/>
+<image path="images/top4.png" filesize="33292" filedate="2022-02-03 15:34:13" width="1089px" height="166px"/>
+<image path="images/top5.png" filesize="28866" filedate="2022-02-03 15:34:13" width="1083px" height="164px"/>
+</images>
